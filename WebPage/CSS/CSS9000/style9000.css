@@ -52,6 +52,15 @@ body{
     margin: 20px;
 }
 
+#video2{
+    display: block;
+    text-align: center;
+    margin: 30px;
+    padding: 50px;
+}
+    
+
+
 #listab{
     font-size: 20px;
     margin: 30px;
