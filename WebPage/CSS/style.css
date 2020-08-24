@@ -3,7 +3,7 @@
     padding: 0px;
 }
 
-/*prueba github*/
+
 
 body {
     background: #E6E6E6;
@@ -38,13 +38,11 @@ header h1 {
 
 
 header nav {
-    bottom: 5;
+    bottom: 5px;
     height: 60px;
     margin-top: 100px;  
     margin-right: 30px;
     padding: 10px 15px;
-    background: rgba (232, 63, 0, 0.8);
-
 }
 
 header nav a{
@@ -85,7 +83,6 @@ header nav a:hover {
 }
 
 aside {
-    widows: 900px;
     height:1000px;
     background: #9c9c9c;
     margin-top: 5px;
@@ -120,8 +117,17 @@ footer h1{
     font-weight: bold;
 
 }
+.list{
+    text-align: center;
+    font-weight: bold;
+
+}
 
 #list a{
+    text-decoration: none;
+    color: black;
+}
+.list a{
     text-decoration: none;
     color: black;
 }
@@ -141,4 +147,22 @@ footer h1{
     height: 50px;
     width: 50px;
   }
+
+#btn-whatsapp a{
+    text-decoration: none;
+    color: black;
+}
+
+#index1{
+
+    margin-left:  10%;
+
+}
+#index2{
+
+    margin-left:  70%;
+
+}
+  
+  
   
