@@ -32,6 +32,7 @@ span{
 #lista li a:hover{
     color: rgb(131, 39, 5);
     text-decoration: underline coral;
+    
 }
 .h2indise{
     font-size: 30px;
@@ -84,4 +85,84 @@ span{
     margin: 0px 20px;
     font-size: 20px;
     
+}
+/*fasesmsf*/
+.h2titulo, h4{
+    text-align: center;
+}
+ .aches{
+    text-align: center;
+    font-size: 25px;
+}
+.fases{
+    font-size: 20px;
+    margin: 0px 30px;
+}
+.parrafof{
+    font-size: 18.5px;
+    margin: 0px 30px;
+}
+.fase2{
+    margin: 50px 300px;
+    font-size: 25px;
+    text-decoration: none;
+    color: rgb(57, 14, 214);
+
+}
+ .fase2:hover{
+    color: rgb(131, 39, 5);
+    text-decoration: underline coral;
+}
+/*analisis comparativos*/
+.analisismsf{
+    font-size: 17px;
+    margin: 10px 20px;
+}
+.tabla{
+    margin: 0px 100px;
+
+}
+.comparativo{
+    margin: 0px 110px;
+    height: 445px;
+}
+.hcom{
+    font-size: 20px;
+    margin: 10px auto;
+    text-align: center;
+}
+/*ventajas*/
+.liventajas{
+    margin: 10px 30px;
+    font-size: 23px;
+}
+/*manejo de riesgos*/
+.hidentificar{
+    margin: 10px auto;
+}
+.texidentificar{
+    font-size: 19px;
+    margin: 0px 20px;
+}
+.enmderiesgo{
+    margin: 5px 20px;
+    font-size: 17px;
+    text-decoration: underline;
+}
+.texmdr{
+    font-size: 17px;
+    margin: 0px 20px;
+}
+
+.id{
+    margin: 15px;
+}
+.enmdr2{
+    margin: 0px 20px;
+    text-decoration: underline;
+}
+
+.mder{
+    margin: 0px 40px;
+    font-size: 17px;
 }
